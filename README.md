@@ -1,3 +1,7 @@
-# hello-world
-my first repository
-hello!! doing the tutorial, im lost :/
+#include <iostream>
+using namespace std;
+int main ()
+{
+cout<<"Hello, world" <<endl;
+return 0;
+}
